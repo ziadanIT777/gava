@@ -1,7 +1,0 @@
-public class zaidan {
-
-    public static void main(String[] args) {
-
-        System.out.println("welcome to the zidane project");
-    }
-}
